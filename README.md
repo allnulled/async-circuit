@@ -19,7 +19,7 @@ require("@allnulled/async-circuit");
 En html:
 
 ```html
-<script src="node_modules/@allnulled/async-circuit"></script>
+<script src="node_modules/@allnulled/async-circuit/async-circuit.js"></script>
 ```
 
 ## Idea
