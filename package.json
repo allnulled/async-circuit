@@ -1,7 +1,7 @@
 {
-  "name": "async-circuit",
+  "name": "@allnulled/async-circuit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Permite pasar árboles de sync, serie, parallel y race a función asíncrona.",
   "main": "async-circuit.js",
   "scripts": {
     "test": "npx mocha test.js"
