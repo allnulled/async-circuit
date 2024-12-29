@@ -1,0 +1,12 @@
+{
+  "name": "async-circuit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-circuit.js",
+  "scripts": {
+    "test": "npx mocha test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
